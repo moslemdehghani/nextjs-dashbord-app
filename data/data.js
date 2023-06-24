@@ -2,8 +2,8 @@ export const data = [
   {
     id: 1,
     name: {
-      first: 'جان',
-      last: 'اسمیت',
+      first: 'john',
+      last: 'smith',
     },
     total: 2795.95,
     status: 'در انتظار ',
@@ -13,8 +13,8 @@ export const data = [
   {
     id: 2,
     name: {
-      first: 'کریس',
-      last: 'ادامز',
+      first: 'chris',
+      last: 'adams',
     },
     total: 1195.95,
     status: 'در حال پروسه',
@@ -24,8 +24,8 @@ export const data = [
   {
     id: 3,
     name: {
-      first: 'سارا',
-      last: 'اسمیت',
+      first: 'sarah',
+      last: 'smith',
     },
     total: 495.85,
     status: 'تکمیل',
@@ -35,8 +35,8 @@ export const data = [
   {
     id: 4,
     name: {
-      first: 'ژوزف ',
-      last: 'چائو',
+      first: 'zoseph ',
+      last: 'chao',
     },
     total: 150.45,
     status: 'در حال پروسه',
@@ -46,8 +46,8 @@ export const data = [
   {
     id: 5,
     name: {
-      first: 'استیو',
-      last: 'هاردینگ',
+      first: 'stive',
+      last: 'harding',
     },
     total: 175.25,
     status: 'در انتظار ',
@@ -57,8 +57,8 @@ export const data = [
   {
     id: 6,
     name: {
-      first: 'لائورا',
-      last: 'کرافت',
+      first: 'laora',
+      last: 'craft',
     },
     total: 1295.75,
     status: 'تکمیل',
@@ -68,8 +68,8 @@ export const data = [
   {
     id: 7,
     name: {
-      first: 'مایکل',
-      last: 'جونز',
+      first: 'mickle',
+      last: 'joens',
     },
     total: 89.95,
     status: 'تکمیل',
@@ -79,8 +79,8 @@ export const data = [
   {
     id: 8,
     name: {
-      first: 'جیمز',
-      last: 'باند',
+      first: 'james',
+      last: 'bond',
     },
     total: 689.45,
     status: 'تکمیل',
@@ -90,8 +90,8 @@ export const data = [
   {
     id: 9,
     name: {
-      first: 'هیلی',
-      last: 'وایتینگ',
+      first: 'haily',
+      last: 'whiting',
     },
     total: 14.99,
     status: 'تکمیل',
@@ -101,8 +101,8 @@ export const data = [
   {
     id: 10,
     name: {
-      first: 'تیم',
-      last: 'توماس',
+      first: 'team',
+      last: 'thomas',
     },
     total: 218.99,
     status: 'تکمیل',
